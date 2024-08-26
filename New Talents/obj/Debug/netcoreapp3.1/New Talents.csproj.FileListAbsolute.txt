@@ -1,0 +1,13 @@
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\bin\Debug\netcoreapp3.1\New Talents.exe
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\bin\Debug\netcoreapp3.1\New Talents.deps.json
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\bin\Debug\netcoreapp3.1\New Talents.runtimeconfig.json
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\bin\Debug\netcoreapp3.1\New Talents.runtimeconfig.dev.json
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\bin\Debug\netcoreapp3.1\New Talents.dll
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\bin\Debug\netcoreapp3.1\New Talents.pdb
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\obj\Debug\netcoreapp3.1\New Talents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\obj\Debug\netcoreapp3.1\New Talents.AssemblyInfoInputs.cache
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\obj\Debug\netcoreapp3.1\New Talents.AssemblyInfo.cs
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\obj\Debug\netcoreapp3.1\New Talents.csproj.CoreCompileInputs.cache
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\obj\Debug\netcoreapp3.1\New Talents.dll
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\obj\Debug\netcoreapp3.1\New Talents.pdb
+C:\Users\vanin\Documents\Dio - Projetos\XP Inc Full Stack\New Talents\New Talents\obj\Debug\netcoreapp3.1\New Talents.genruntimeconfig.cache
